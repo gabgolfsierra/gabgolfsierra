@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
-### Most Used Technologies
+
+Most Used Technologies
 
 <div style="display: inline_block"></br>
   
