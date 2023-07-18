@@ -13,11 +13,11 @@ Most Used Technologies
 
 </div>
 <br>
-
+<br>
 
 <div>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={gabgolfsierra}&theme=purple"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username={gabgolsierra}&theme=blue-green"/>
 
 </div>
 
